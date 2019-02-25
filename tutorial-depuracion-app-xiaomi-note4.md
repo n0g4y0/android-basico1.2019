@@ -20,9 +20,17 @@ busqueda dentro de la pagina el dispositivo _(puedo ayudarme con la combinacion 
 - ahora vamos a la opcion **additional settings**:
   - **Developer options**
     - *aqui modificamos las opciones:*
+    
+    
       > USB DEBUGGING : ON
+      
+      
       > INSTALL VIA USB : ON
+      
+      
       > TURN ON MIUI OPTIMIZATION : OFF
+      
+      
 
 - finalmente conectamos el cable usb, nos saldra el logo de la version de android del celular en la parte superior de dicho celu.
 
